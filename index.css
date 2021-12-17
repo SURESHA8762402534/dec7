@@ -1,0 +1,65 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO2AqMx1yrjS9cI_Cv82K91hsbNhJUFPSPog&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    transform-style:preserve-3d;
+    
+}
+
+#main{
+    width: 600px;
+    margin: 230px auto;
+    text-align: center;
+    box-shadow: 0 0 20px rgb(179, 33, 33);
+    padding: 30px;
+    background: linear-gradient(to bottom, #e9e512, #8deb62, #f64f59);
+    border-radius: 25px;
+   
+}
+
+#main:hover{
+    width:610px;
+    margin-top: 240px;
+    
+}
+
+div{
+    text-align: center;
+    padding-left: 70px;
+    padding-bottom: 10px;
+}
+
+button{
+    margin-left: 10px;
+    border-radius: 25px;
+}
+
+button:hover{
+    background-color:rgb(69, 38, 180);
+}
+
+span{
+    margin-left: -57px;
+    color: rgb(11, 236, 48);
+    text-shadow: 2px 2px #FF0000;
+
+}
+
+h1{
+    text-shadow: 2px 2px #FF0000;
+}
+
+#input{
+    border-radius: 25px;
+}
+
+label{
+    font-size: 30px;
+    text-shadow: 2px 2px #64f304;
+    color: rgb(77, 22, 3);
+}
+
+#new{
+    margin-left: 20px;
+}
